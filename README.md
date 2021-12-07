@@ -2,7 +2,7 @@
 
 [![yunselee's 42 stats](https://badge42.herokuapp.com/api/stats/yunselee)](https://github.com/JaeSeoKim/badge42)
 
-![my real github](https://github.com/EeeUnS)
+[my real github](https://github.com/EeeUnS)
 
 <!--
 **yunselee/yunselee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
