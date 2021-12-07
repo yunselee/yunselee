@@ -6,7 +6,7 @@
 
 
 
-|----|---|
+|:----:|:---:|
 |Libft  | [![yunselee's 42Project Score](https://badge42.herokuapp.com/api/project/yunselee/Libft)](https://github.com/JaeSeoKim/badge42)|
 |get_next_line | [![yunselee's 42Project Score](https://badge42.herokuapp.com/api/project/yunselee/get_next_line)](https://github.com/JaeSeoKim/badge42)|
 |ft_printf | [![yunselee's 42Project Score](https://badge42.herokuapp.com/api/project/yunselee/ft_printf)](https://github.com/JaeSeoKim/badge42)|
