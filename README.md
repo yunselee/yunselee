@@ -5,7 +5,7 @@
 [my real github](https://github.com/EeeUnS)
 
 
-
+|과제|점수|
 |:----:|:---:|
 |Libft  | [![yunselee's 42Project Score](https://badge42.herokuapp.com/api/project/yunselee/Libft)](https://github.com/JaeSeoKim/badge42)|
 |get_next_line | [![yunselee's 42Project Score](https://badge42.herokuapp.com/api/project/yunselee/get_next_line)](https://github.com/JaeSeoKim/badge42)|
@@ -13,6 +13,10 @@
 |netwhat| [![yunselee's 42Project Score](https://badge42.herokuapp.com/api/project/yunselee/netwhat)](https://github.com/JaeSeoKim/badge42)|
 |Born2beroot | [![yunselee's 42Project Score](https://badge42.herokuapp.com/api/project/yunselee/Born2beroot)](https://github.com/JaeSeoKim/badge42)|
 |minitalk | [![yunselee's 42Project Score](https://badge42.herokuapp.com/api/project/yunselee/minitalk)](https://github.com/JaeSeoKim/badge42)|
+|fract-ol | [![yunselee's 42Project Score](https://badge42.herokuapp.com/api/project/yunselee/fract-ol)](https://github.com/JaeSeoKim/badge42)|
+|push_swap | [![yunselee's 42Project Score](https://badge42.herokuapp.com/api/project/yunselee/push_swap)](https://github.com/JaeSeoKim/badge42)|
+|minishell | [![yunselee's 42Project Score](https://badge42.herokuapp.com/api/project/yunselee/minishell)](https://github.com/JaeSeoKim/badge42)|
+|Philosophers | [![yunselee's 42Project Score](https://badge42.herokuapp.com/api/project/yunselee/Philosophers)](https://github.com/JaeSeoKim/badge42)|
 
 
 
