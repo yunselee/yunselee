@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+[![yunselee's 42 stats](https://badge42.herokuapp.com/api/stats/yunselee)](https://github.com/JaeSeoKim/badge42)
+
+
 <!--
 **yunselee/yunselee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
