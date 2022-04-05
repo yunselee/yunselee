@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![yunselee's 42 stats](https://badge42.herokuapp.com/api/stats/yunselee)](https://github.com/JaeSeoKim/badge42)
+[![yunselee's 42 stats](https://badge42.vercel.app/api/v2/cl1lf2i0y00060ajmnz3dew0n/stats?cursusId=21&coalitionId=86)
 
 [my real github](https://github.com/EeeUnS)
 
